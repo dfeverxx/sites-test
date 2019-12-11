@@ -1,7 +1,7 @@
 server {
-  listen 80 ;
+  listen 80;
 
-  root /srv/www/jithin;
+  root /srv/www/cd;
   index index.html;
 
   server_name jithin.dfeverx.in www.jithin.dfeverx.in;
