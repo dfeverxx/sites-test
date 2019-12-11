@@ -4,8 +4,8 @@ server {
   root /srv/www/jithin;
   index index.html;
 
-  server_name jithin.dfeverx.com www.jithin.dfeverx.com;
-  
+  server_name jithin.dfeverx.in www.jithin.dfeverx.in;
+
   location / {
     try_files $uri $uri/ =404;
   }
